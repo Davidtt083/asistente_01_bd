@@ -1,0 +1,12 @@
+faiss-cpu==1.8.0.post1
+Flask==3.0.2
+Flask-PyMongo==2.3.0
+ipython==8.12.3
+langchain==0.2.15
+langchain-community==0.2.14
+langchain-core==0.2.36
+langchain-google-genai==1.0.10
+langchain-text-splitters==0.2.2
+markdown2==2.5.0
+numpy==1.26.4
+pymongo==4.8.0
